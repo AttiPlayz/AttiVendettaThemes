@@ -14,10 +14,10 @@
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMRARY": [
-            "#141414"
+            "#363349"
         ],
         "HEADER_SECONDARY": [
-            "#b6b6b6"
+            "#252931"
         ],
         "INTERACTIVE_NORMAL": [
             "#c8c8c8"
