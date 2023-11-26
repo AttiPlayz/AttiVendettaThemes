@@ -1,14 +1,14 @@
 {
-    "name": "Dark Vendetta",
-    "description": "A \"improved\" dark theme for Discord. Original theme by ignacio. Restored and maintained by Kitomanari.",
+    "name": "Rainy Darkness",
+    "description": "A theme for Vendetta made for Rain",
     "authors": [
         {
-            "name": "ignacio",
-            "id": "811581067940855888"
+            "name": "Atti",
+            "id": "543294460528951313"
         },
         {
-            "name": "Kitomanari",
-            "id": "437154602626973697"
+            "name": "Rain",
+            "id": "921887970015993906"
         }
     ],
     "spec": 2,
