@@ -38,16 +38,16 @@
             "#252931"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0e0e0e"
+            "#393F4B"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0c0c0c"
+            "#4A4666"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#111111"
+            "#393F4B"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#0c0c0c"
+            "#363349"
         ],
         "CHANNEL_ICON": [
             "#b6b6b6"
@@ -56,7 +56,7 @@
             "#6c757d"
         ],
         "CHAT_BACKGROUND":[
-            "#141414"
+            "#363349"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#0c0c0c"
