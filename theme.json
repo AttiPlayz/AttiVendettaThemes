@@ -1,14 +1,14 @@
 {
-    "name": "Rainy",
-    "description": "A theme for Discord made 4 Rain",
+    "name": "Dark Vendetta",
+    "description": "A \"improved\" dark theme for Discord. Original theme by ignacio. Restored and maintained by Kitomanari.",
     "authors": [
         {
-            "name": "Atti",
-            "id": "543294460528951313"
+            "name": "ignacio",
+            "id": "811581067940855888"
         },
         {
-            "name": "Rain",
-            "id": "921887970015993906"
+            "name": "Kitomanari",
+            "id": "437154602626973697"
         }
     ],
     "spec": 2,
