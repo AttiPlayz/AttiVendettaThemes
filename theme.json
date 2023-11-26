@@ -20,13 +20,13 @@
             "#252931"
         ],
         "INTERACTIVE_NORMAL": [
-            "#c8c8c8"
+            "#363349"
         ],
         "INTERACTIVE_HOVER": [
-            "#dcddde"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dcddde"
+            "#363349"
         ],
         "INTERACTIVE_MUTED": [
             "#6c757d"
@@ -50,7 +50,7 @@
             "#363349"
         ],
         "CHANNEL_ICON": [
-            "#b6b6b6"
+            "#363349"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#363349"
